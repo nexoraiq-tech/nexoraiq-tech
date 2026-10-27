@@ -68,11 +68,11 @@ NexorAIQ brings search intelligence, merchandising controls, and actionable anal
 
 Use Copilot as a conversational assistant for understanding what is happening in your store's search experience. Ask questions in natural language about popular searches, zero-result queries, search performance, product discovery, and potential opportunities. Copilot can summarize patterns, explain findings, and suggest next steps such as synonyms, query improvements, or product boosts. Where an action changes store behaviour, it should be presented for review and approval rather than silently applied.
 
-### Pin product
+### [Product Pinning](https://www.nexoraiq.tech/features/product-pinning)
 
 Promote a specific product for a relevant search query by pinning it to a chosen position. Pinning helps merchants give priority to campaign products, best sellers, seasonal items, or strategic products when a shopper searches for selected terms. Use query targeting and position controls carefully so pinned results remain useful to shoppers; review the impact through search analytics.
 
-### Search merchandising
+### [Visual Merchandising](https://www.nexoraiq.tech/features/visual-merchandising)
 
 Manage the promotional experience around search results with merchandising controls such as:
 
@@ -84,11 +84,11 @@ Manage the promotional experience around search results with merchandising contr
 
 Merchandising should support the shopper's intent—not obscure relevant products. Review performance and attribution before extending a campaign.
 
-### Trending search keywords
+### [Trending Search](https://www.nexoraiq.tech/features/trending-default)
 
 Discover the terms shoppers are searching for and spot changes in demand. A trending-keywords view can help teams identify high-volume searches, rising queries, repeated searches, and queries that return few or no useful results. Use these insights to plan campaigns, improve product data, add synonyms, tune ranking, and identify unmet catalogue demand. Trends should be interpreted alongside clicks, conversions, and zero-result rates rather than search volume alone.
 
-### Semantic and multilingual search
+### [AI Autocomplete](https://www.nexoraiq.tech/features/ai-autocomplete)
 
 - **Natural-language understanding:** interpret the intent behind a shopper's query, not only exact words.
 - **Semantic relevance:** connect related concepts and product attributes even when catalogue wording differs from the query.
@@ -96,7 +96,7 @@ Discover the terms shoppers are searching for and spot changes in demand. A tren
 - **Query refinement:** improve the handling of synonyms, alternate wording, and common search gaps.
 - **Product ranking and relevance:** combine query understanding with catalogue information to surface useful results.
 
-### Search analytics and AI optimisation
+### [Search Rules & Boosts](https://www.nexoraiq.tech/features/search-rules-boosts)
 
 Give commerce teams visibility into query patterns, zero-result searches, search engagement, and product discovery. Use these signals to prioritise improvements, test relevance changes, and evaluate whether ranking or merchandising adjustments are helping. Where AI optimisation, experiments, approval controls, or rollback are enabled for a workspace, use them to test changes deliberately and retain human oversight over consequential updates.
 
