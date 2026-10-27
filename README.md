@@ -20,6 +20,13 @@
 </p>
 
 <p>
+<p>
+  <a href="https://github.com/nexoraiq-tech"><img src="https://img.shields.io/badge/GitHub-NexorAIQ--Tech-181717?style=for-the-badge&logo=github&logoColor=white" alt="NexorAIQ GitHub organization"/></a>
+  <a href="https://github.com/nexoraiq-tech/nexoraiq-magento2-connector"><img src="https://img.shields.io/github/stars/nexoraiq-tech/nexoraiq-magento2-connector?style=for-the-badge&logo=github&label=Magento%20Connector%20Stars" alt="Magento connector GitHub stars"/></a>
+  <a href="https://github.com/nexoraiq-tech/nexoraiq-magento2-connector/releases"><img src="https://img.shields.io/github/v/release/nexoraiq-tech/nexoraiq-magento2-connector?style=for-the-badge&display_name=tag" alt="Latest connector release"/></a>
+  <a href="https://github.com/nexoraiq-tech/nexoraiq-magento2-connector"><img src="https://img.shields.io/badge/Magento-2.4.9%20%2B-EE672F?style=for-the-badge&logo=magento&logoColor=white" alt="Magento connector platform target"/></a>
+</p>
+
   <a href="https://www.linkedin.com/showcase/nexoraiqtech/"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/nexoraiqtech/"><img src="https://img.shields.io/badge/Instagram-%40nexoraiqtech-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.facebook.com/NexorAIQTech/"><img src="https://img.shields.io/badge/Facebook-NexorAIQTech-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
