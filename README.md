@@ -60,35 +60,6 @@ Our goal is simple: **less searching for the right words, more discovering the r
   </tr>
 </table>
 
-## Solutions
-
-NexorAIQ supports different commerce industries and operating models, with search relevance, merchandising, and measurable business outcomes at the centre.
-
-### Solutions by industry
-
-- **Fashion & Apparel:** Visual style matching, colour and size facets, and trend boosting.
-- **Beauty & Cosmetics:** Skin-tone filtering, routine building, and ingredient discovery.
-- **Electronics & Tech:** Exact part-number search, specification matrices, and compatibility discovery.
-- **Luxury & High-Catalogue Retail:** Curated product discovery, margin protection, and brand-aware boosting.
-
-### Solutions by business model
-
-- **Multi-Vendor Marketplaces:** Vendor-aware ranking, cross-seller discovery, and support for marketplace scale.
-- **B2B Wholesale & Commerce:** Contract price tiers, bulk order lists, and scoped catalogues.
-- **Enterprise D2C Brands:** Headless GraphQL experiences, edge search performance, and omnichannel synchronisation.
-- **Omnichannel Retail Chains:** Store availability, buy online/pick up in store (BOPIS), and point-of-sale inventory synchronisation.
-
-### Customer proof, ROI & enterprise trust
-
-- **Customer Case Studies:** Showcase customer outcomes, including the site’s stated example of a 34% conversion lift for retail brands using NexorAIQ.
-- **Search ROI Benchmarks:** Measure revenue attribution and changes in zero-result searches to understand search performance.
-- **Enterprise SLAs & Trust:** Enterprise service-level agreements, data privacy, and the stated 99.98% uptime guarantee.
-- **Zero-Downtime Migration:** Side-by-side A/B traffic splitting and guided onboarding to support migration with minimal disruption.
-
-### Search Revenue Lift Simulator
-
-Estimate the potential additional revenue and sales a store could gain from AI-powered search. The website presents this as a revenue benchmark simulator, with example highlights for **+34% sales lift**, **instant speed**, and a **live model**. Treat these as website-provided benchmarks and validate expected results against your own store data.
-
 ## Platform capabilities
 
 NexorAIQ brings search intelligence, merchandising controls, and actionable analytics together so commerce teams can improve product discovery without relying only on exact keyword matches.
@@ -132,6 +103,35 @@ Give commerce teams visibility into query patterns, zero-result searches, search
 ### The broader NexorAIQ workspace
 
 The platform is intended to bring together store connection, catalogue ingestion and indexing, search configuration, relevance and merchandising controls, Copilot assistance, analytics, and subscription management. Available controls may vary by commerce integration and subscription plan.
+
+## Solutions
+
+NexorAIQ supports industry-specific product discovery, different commerce operating models, enterprise trust, and measurable search performance.
+
+### Solutions by industry
+
+- **[Fashion & Apparel](https://www.nexoraiq.tech/solutions/fashion-apparel):** Visual style matching, colour and size facets, and trend boosting.
+- **[Beauty & Cosmetics](https://www.nexoraiq.tech/solutions/beauty-cosmetics):** Skin-tone filtering, routine building, and ingredient discovery.
+- **[Electronics & Tech](https://www.nexoraiq.tech/solutions/electronics-tech):** Exact part-number search, specification matrices, and compatibility discovery.
+- **[Luxury & High-Catalogue Retail](https://www.nexoraiq.tech/solutions/luxury-high-catalog):** Curated product discovery, margin protection, and brand-aware boosting.
+
+### Solutions by business model
+
+- **[Multi-Vendor Marketplaces](https://www.nexoraiq.tech/solutions/multi-vendor-marketplaces):** Vendor-aware ranking, cross-seller discovery, and marketplace scale.
+- **[B2B Wholesale & Commerce](https://www.nexoraiq.tech/solutions/b2b-wholesale):** Contract price tiers, bulk order lists, and scoped catalogues.
+- **[Enterprise D2C Brands](https://www.nexoraiq.tech/solutions/enterprise-d2c):** Headless GraphQL experiences, fast edge search, and omnichannel synchronisation.
+- **[Omnichannel Retail Chains](https://www.nexoraiq.tech/solutions/omnichannel-retail):** Store availability, buy online/pick up in store (BOPIS), and point-of-sale inventory synchronisation.
+
+### Customer proof, ROI & enterprise trust
+
+- **[Customer Case Studies](https://www.nexoraiq.tech/customers):** Explore customer stories and reported outcomes.
+- **[Security & Compliance](https://www.nexoraiq.tech/security):** Learn about enterprise security, data privacy, and trust practices.
+- **[Search ROI Benchmarks](https://www.nexoraiq.tech/benchmarks):** Review search revenue benchmarks and performance measures.
+- **[Zero-Downtime Migration](https://www.nexoraiq.tech/migration):** Explore migration planning and approaches designed to minimise disruption.
+
+### Search Revenue Lift Simulator
+
+Estimate potential revenue impact using the [Search ROI Benchmarks](https://www.nexoraiq.tech/benchmarks) resource. Actual results vary by store, catalogue, traffic, and search experience; validate projections with your own data.
 
 ## Getting started: installation, login, and onboarding
 
