@@ -119,16 +119,16 @@ If the store was already connected or the initial setup was interrupted, reopen 
 
 ### Pricing plans and free trial
 
-The public pricing page presents the following **USD Global monthly prices** and a 14-day free trial for Starter, Growth, and Professional. It also offers monthly/yearly billing with a “Save 15%” yearly option and a currency selector for INR (India) and USD (Global).
+The public pricing page presents the following monthly prices. The INR (India) values are listed first, followed by the USD (Global) values. Starter, Growth, and Professional include a 14-day free trial. The page also offers monthly/yearly billing with a “Save 15%” yearly option.
 
-| Plan | Monthly price (USD Global) | Trial | Monthly search allowance | Product limit | Seats | Included features shown |
+| Plan | Monthly price (INR India, then USD Global) | Trial | Monthly search allowance | Product limit | Seats | Included features shown |
 | --- | ---: | --- | ---: | ---: | ---: | --- |
-| Starter | $99/month | 14 days | 100K searches/month | 5,000 products | 2 seats | AI search, email support |
-| Growth | $149/month | 14 days | 1M searches/month | 30,000 products | 5 seats | AI search, email support |
-| Professional | $299/month | 14 days | 15M searches/month | 100,000 products | 10 seats | AI search, priority support |
-| Enterprise | Custom | No trial shown in the supplied pricing view | Custom | Custom | Custom | Dedicated database hosting, custom domain support |
+| Starter | ₹6,999/month · $99/month | 14 days | 100K searches/month | 5,000 products | 2 seats | AI search, email support |
+| Growth | ₹9,999/month · $149/month | 14 days | 1M searches/month | 30,000 products | 5 seats | AI search, email support |
+| Professional | ₹19,999/month · $299/month | 14 days | 15M searches/month | 100,000 products | 10 seats | AI search, priority support |
+| Enterprise | Custom · Custom | No trial shown in the supplied pricing view | Custom | Custom | Custom | Dedicated database hosting, custom domain support |
 
-**Yearly billing:** the pricing page displays a 15% saving for yearly billing. The supplied screenshot shows monthly USD Global prices; yearly billed amounts and INR prices should be read from the live pricing selector rather than guessed.
+**Yearly billing:** the pricing page displays a 15% saving for yearly billing. The figures above are monthly prices; yearly billed amounts should be read from the live pricing selector rather than guessed.
 
 #### What the 14-day trial means
 
