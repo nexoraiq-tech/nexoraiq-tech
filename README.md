@@ -58,6 +58,90 @@ Our goal is simple: **less searching for the right words, more discovering the r
   </tr>
 </table>
 
+## Platform capabilities
+
+NexorAIQ brings search intelligence, merchandising controls, and actionable analytics together so commerce teams can improve product discovery without relying only on exact keyword matches.
+
+### AI Copilot
+
+Use Copilot as a conversational assistant for understanding what is happening in your store's search experience. Ask questions in natural language about popular searches, zero-result queries, search performance, product discovery, and potential opportunities. Copilot can summarize patterns, explain findings, and suggest next steps such as synonyms, query improvements, or product boosts. Where an action changes store behaviour, it should be presented for review and approval rather than silently applied.
+
+### Pin product
+
+Promote a specific product for a relevant search query by pinning it to a chosen position. Pinning helps merchants give priority to campaign products, best sellers, seasonal items, or strategic products when a shopper searches for selected terms. Use query targeting and position controls carefully so pinned results remain useful to shoppers; review the impact through search analytics.
+
+### Search merchandising
+
+Manage the promotional experience around search results with merchandising controls such as:
+
+- **Hero banners and search banners** to highlight campaigns or relevant categories.
+- **Promotional strips** to communicate offers and key messages.
+- **Redirects** to send a query to a curated collection, category, or campaign destination when that is the most useful result.
+- **Targeting and scheduling** by query, placement, priority, store or locale, and active dates where supported.
+- **Creative management and measurement** to connect merchandising activity with engagement and downstream outcomes.
+
+Merchandising should support the shopper's intent—not obscure relevant products. Review performance and attribution before extending a campaign.
+
+### Trending search keywords
+
+Discover the terms shoppers are searching for and spot changes in demand. A trending-keywords view can help teams identify high-volume searches, rising queries, repeated searches, and queries that return few or no useful results. Use these insights to plan campaigns, improve product data, add synonyms, tune ranking, and identify unmet catalogue demand. Trends should be interpreted alongside clicks, conversions, and zero-result rates rather than search volume alone.
+
+### Semantic and multilingual search
+
+- **Natural-language understanding:** interpret the intent behind a shopper's query, not only exact words.
+- **Semantic relevance:** connect related concepts and product attributes even when catalogue wording differs from the query.
+- **Multilingual discovery:** help shoppers search across supported languages and express needs in the language that feels natural to them.
+- **Query refinement:** improve the handling of synonyms, alternate wording, and common search gaps.
+- **Product ranking and relevance:** combine query understanding with catalogue information to surface useful results.
+
+### Search analytics and AI optimisation
+
+Give commerce teams visibility into query patterns, zero-result searches, search engagement, and product discovery. Use these signals to prioritise improvements, test relevance changes, and evaluate whether ranking or merchandising adjustments are helping. Where AI optimisation, experiments, approval controls, or rollback are enabled for a workspace, use them to test changes deliberately and retain human oversight over consequential updates.
+
+### The broader NexorAIQ workspace
+
+The platform is intended to bring together store connection, catalogue ingestion and indexing, search configuration, relevance and merchandising controls, Copilot assistance, analytics, and subscription management. Available controls may vary by commerce integration and subscription plan.
+
+## Getting started: installation, login, and onboarding
+
+For a Shopify store, the intended first-run journey is:
+
+1. **Install NexorAIQ** from the Shopify App Store and approve the requested Shopify permissions.
+2. **Open the app inside Shopify Admin** from **Apps → NexorAIQ**. This is the entry point for login/session access and setup; merchants should not need to begin by searching for a separate public dashboard URL.
+3. **Complete the onboarding/setup flow** in the NexorAIQ app. Connect or confirm the store, review the connection status, and complete any requested setup details.
+4. **Choose or approve a subscription** on the Shopify-managed pricing/approval screen, if prompted. The subscription status must be confirmed before paid features or plan limits are treated as active.
+5. **Import and index the catalogue.** Wait for the initial sync/indexing to complete, then test real customer queries and review the search results.
+6. **Configure search and merchandising.** Review relevance, pin or promote selected products, inspect trending queries, and use Copilot/analytics to find improvements.
+
+If the store was already connected or the initial setup was interrupted, reopen **Shopify Admin → Apps → NexorAIQ** and look for the onboarding/setup or connection status screen. Exact labels may vary as the app UI evolves.
+
+### Pricing plans and trial
+
+NexorAIQ's paid plan and trial terms must match the live subscription configuration presented during installation. For Shopify, Shopify's app pricing/approval screen is the source of truth for the merchant's selected plan, billing cadence, and any free-trial period. Do not assume a trial has started until the subscription approval flow confirms it.
+
+The following figures were discussed as a **proposed pricing model**, not verified live prices:
+
+| Proposed plan | Indicative price | Intended fit |
+| --- | ---: | --- |
+| Starter | ₹6,999/month | Smaller stores getting started with enhanced search and core discovery tools |
+| Growth | ₹9,999/month | Growing catalogues needing deeper search insights and merchandising workflows |
+| Professional | ₹19,999/month | Larger or more advanced stores requiring broader optimisation and analytics capabilities |
+
+**Before publishing these figures as current prices, verify them against the live Shopify App Store listing and in-app billing configuration.** The same applies to feature entitlements, usage limits, and billing cadence.
+
+A **14-day free trial** was discussed as a possible onboarding offer, but the live trial duration has not been verified from the public website or repository. The actual configured trial—whether 14 days, 30 days, or no trial—must be confirmed in Shopify's pricing configuration and shown clearly before the merchant approves the subscription. Do not promise a specific trial period until it is configured and approved.
+
+### Where to find the main tools
+
+- **Onboarding / Store connection:** Shopify Admin → Apps → NexorAIQ; complete the setup prompts and confirm connection status.
+- **Search configuration:** NexorAIQ app workspace, in the search/relevance configuration area.
+- **Pinning and merchandising:** the search merchandising controls, where query targeting, product placement, creative, and scheduling options are available.
+- **Trending keywords and analytics:** the analytics/search insights area.
+- **Copilot:** the Copilot assistant within the NexorAIQ workspace, when enabled for the store and plan.
+- **Plan and billing:** the Shopify-managed subscription approval flow and the store's app subscription details.
+
+These are functional navigation descriptions; use the labels visible in the currently deployed app if they differ.
+
 ## How product discovery works
 
 ```mermaid
