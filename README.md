@@ -121,13 +121,15 @@ NexorAIQ's paid plan and trial terms must match the live subscription configurat
 
 The following figures were discussed as a **proposed pricing model**, not verified live prices:
 
-| Proposed plan | Indicative price | Intended fit |
-| --- | ---: | --- |
-| Starter | ₹6,999/month | Smaller stores getting started with enhanced search and core discovery tools |
-| Growth | ₹9,999/month | Growing catalogues needing deeper search insights and merchandising workflows |
-| Professional | ₹19,999/month | Larger or more advanced stores requiring broader optimisation and analytics capabilities |
+| Proposed plan | Indicative India price | Approx. USD equivalent | Intended fit |
+| --- | ---: | ---: | --- |
+| Starter | ₹6,999/month | **$75/month** | Smaller stores getting started with enhanced search and core discovery tools |
+| Growth | ₹9,999/month | **$105/month** | Growing catalogues needing deeper search insights and merchandising workflows |
+| Professional | ₹19,999/month | **$210/month** | Larger or more advanced stores requiring broader optimisation and analytics capabilities |
 
-**Before publishing these figures as current prices, verify them against the live Shopify App Store listing and in-app billing configuration.** The same applies to feature entitlements, usage limits, and billing cadence.
+USD figures are rounded planning estimates based on an illustrative exchange rate of approximately **₹95.2 per US$1** (27 October 2026), not fixed currency conversions. Actual conversion rates, bank fees, taxes, Shopify billing rules, and any regional pricing strategy may change the final amount. [Reference: current USD/INR rate](https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=INR).
+
+**These are proposed planning prices, not verified live prices. Before publishing them as current prices, confirm both currencies against the live Shopify App Store listing and the app's billing configuration.** The same applies to feature entitlements, usage limits, billing cadence, and whether USD pricing is configured as a separate regional price or converted at checkout.
 
 A **14-day free trial** was discussed as a possible onboarding offer, but the live trial duration has not been verified from the public website or repository. The actual configured trial—whether 14 days, 30 days, or no trial—must be confirmed in Shopify's pricing configuration and shown clearly before the merchant approves the subscription. Do not promise a specific trial period until it is configured and approved.
 
