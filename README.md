@@ -15,7 +15,7 @@
 <p>
   <a href="https://www.nexoraiq.tech/"><img src="https://img.shields.io/badge/WEBSITE-Explore%20NexorAIQ-6547F5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NexorAIQ website"/></a>
   <a href="https://www.nexoraiq.tech/book-demo"><img src="https://img.shields.io/badge/BOOK%20A%20DEMO-Speak%20with%20Our%20Team-16865A?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Book a NexorAIQ demo"/></a>
-  <a href="https://www.nexoraiq.tech/"><img src="https://img.shields.io/badge/START%20FREE%20TRIAL-14%20Days-6547F5?style=for-the-badge&logo=shopify&logoColor=white" alt="Start a 14-day trial"/></a>
+  <a href="https://www.nexoraiq.tech/pricing"><img src="https://img.shields.io/badge/PRICING-View%20Plans-6547F5?style=for-the-badge&logo=shopify&logoColor=white" alt="View NexorAIQ pricing plans"/></a>
   <a href="https://www.nexoraiq.tech/artworks/index.html"><img src="https://img.shields.io/badge/BRAND%20ARTWORK-View%20Gallery-333333?style=for-the-badge&logo=figma&logoColor=white" alt="Brand artwork gallery"/></a>
 </p>
 
@@ -68,11 +68,11 @@ NexorAIQ brings search intelligence, merchandising controls, and actionable anal
 
 Use Copilot as a conversational assistant for understanding what is happening in your store's search experience. Ask questions in natural language about popular searches, zero-result queries, search performance, product discovery, and potential opportunities. Copilot can summarize patterns, explain findings, and suggest next steps such as synonyms, query improvements, or product boosts. Where an action changes store behaviour, it should be presented for review and approval rather than silently applied.
 
-### [Pin product](https://www.nexoraiq.tech/#pin-product)
+### Pin product
 
 Promote a specific product for a relevant search query by pinning it to a chosen position. Pinning helps merchants give priority to campaign products, best sellers, seasonal items, or strategic products when a shopper searches for selected terms. Use query targeting and position controls carefully so pinned results remain useful to shoppers; review the impact through search analytics.
 
-### [Search merchandising](https://www.nexoraiq.tech/#search-merchandising)
+### Search merchandising
 
 Manage the promotional experience around search results with merchandising controls such as:
 
@@ -84,11 +84,11 @@ Manage the promotional experience around search results with merchandising contr
 
 Merchandising should support the shopper's intent—not obscure relevant products. Review performance and attribution before extending a campaign.
 
-### [Trending search keywords](https://www.nexoraiq.tech/#trending-search-keywords)
+### Trending search keywords
 
 Discover the terms shoppers are searching for and spot changes in demand. A trending-keywords view can help teams identify high-volume searches, rising queries, repeated searches, and queries that return few or no useful results. Use these insights to plan campaigns, improve product data, add synonyms, tune ranking, and identify unmet catalogue demand. Trends should be interpreted alongside clicks, conversions, and zero-result rates rather than search volume alone.
 
-### [Semantic and multilingual search](https://www.nexoraiq.tech/#semantic-multilingual-search)
+### Semantic and multilingual search
 
 - **Natural-language understanding:** interpret the intent behind a shopper's query, not only exact words.
 - **Semantic relevance:** connect related concepts and product attributes even when catalogue wording differs from the query.
@@ -96,7 +96,7 @@ Discover the terms shoppers are searching for and spot changes in demand. A tren
 - **Query refinement:** improve the handling of synonyms, alternate wording, and common search gaps.
 - **Product ranking and relevance:** combine query understanding with catalogue information to surface useful results.
 
-### [Search analytics and AI optimisation](https://www.nexoraiq.tech/#search-analytics-ai-optimisation)
+### Search analytics and AI optimisation
 
 Give commerce teams visibility into query patterns, zero-result searches, search engagement, and product discovery. Use these signals to prioritise improvements, test relevance changes, and evaluate whether ranking or merchandising adjustments are helping. Where AI optimisation, experiments, approval controls, or rollback are enabled for a workspace, use them to test changes deliberately and retain human oversight over consequential updates.
 
@@ -117,39 +117,26 @@ For a Shopify store, the intended first-run journey is:
 
 If the store was already connected or the initial setup was interrupted, reopen **Shopify Admin → Apps → NexorAIQ** and look for the onboarding/setup or connection status screen. Exact labels may vary as the app UI evolves.
 
-### Pricing plans and 14-day free trial
+### Pricing plans and free trial
 
-**Trial offer:** NexorAIQ's intended offer is a 14-day free trial for eligible Shopify merchants. Merchants should be able to install the app and approve a Shopify-managed subscription to begin the trial. The Shopify billing screen must show the trial duration, plan price, billing cadence, and the date paid billing starts before the merchant confirms.
+The public pricing page presents the following **USD Global monthly prices** and a 14-day free trial for Starter, Growth, and Professional. It also offers monthly/yearly billing with a “Save 15%” yearly option and a currency selector for INR (India) and USD (Global).
 
-During the 14-day trial, the onboarding experience should guide a merchant through:
+| Plan | Monthly price (USD Global) | Trial | Monthly search allowance | Product limit | Seats | Included features shown |
+| --- | ---: | --- | ---: | ---: | ---: | --- |
+| Starter | $99/month | 14 days | 100K searches/month | 5,000 products | 2 seats | AI search, email support |
+| Growth | $149/month | 14 days | 1M searches/month | 30,000 products | 5 seats | AI search, email support |
+| Professional | $299/month | 14 days | 15M searches/month | 100,000 products | 10 seats | AI search, priority support |
+| Enterprise | Custom | No trial shown in the supplied pricing view | Custom | Custom | Custom | Dedicated database hosting, custom domain support |
 
-1. Installing NexorAIQ from the Shopify App Store and opening it in **Shopify Admin → Apps → NexorAIQ**.
-2. Connecting the store and checking the connection status.
-3. Importing and indexing the product catalogue.
-4. Testing search with natural-language and multilingual queries.
-5. Reviewing search analytics, trending queries, and zero-result searches.
-6. Trying available Copilot, product pinning, and merchandising tools for the selected plan.
-7. Reviewing the plan and billing details before the trial ends.
+**Yearly billing:** the pricing page displays a 15% saving for yearly billing. The supplied screenshot shows monthly USD Global prices; yearly billed amounts and INR prices should be read from the live pricing selector rather than guessed.
 
-**Important implementation status:** this GitHub profile repository contains documentation only; it does not contain the Shopify app's billing or subscription code. Adding a 14-day-trial description here does **not** activate the trial. To make the offer available to every eligible merchant, configure the 14-day trial on the Shopify App Store / Partner Dashboard pricing plan and ensure the app's subscription flow uses that plan. Verify the published listing and in-app billing approval screen before announcing the trial as live.
+#### What the 14-day trial means
 
-#### Proposed pricing model
+The pricing page advertises a 14-day free trial for Starter, Growth, and Professional. Use the [Pricing page](https://www.nexoraiq.tech/pricing) to choose a plan and follow the live signup/subscription flow. The supplied screenshot does not specify whether a payment method is required, the exact billing start date, or cancellation terms; review the terms shown during signup before confirming.
 
-The following figures are planning estimates only; they are not verified live prices:
+#### Onboarding
 
-| Proposed plan | Indicative India price | Approx. USD equivalent | Intended fit |
-| --- | ---: | ---: | --- |
-| Starter | ₹6,999/month | **$75/month** | Smaller stores getting started with enhanced search and core discovery tools |
-| Growth | ₹9,999/month | **$105/month** | Growing catalogues needing deeper search insights and merchandising workflows |
-| Professional | ₹19,999/month | **$210/month** | Larger or more advanced stores requiring broader optimisation and analytics capabilities |
-
-USD figures are rounded planning estimates based on an illustrative exchange rate of approximately **₹95.2 per US$1** (27 October 2026), not fixed currency conversions. Actual conversion rates, bank fees, taxes, Shopify billing rules, and any regional pricing strategy may change the final amount.
-
-**Before publishing prices as current prices, confirm both currencies against the live Shopify App Store listing and the app's billing configuration.** The same applies to feature entitlements, usage limits, billing cadence, and regional pricing.
-
-#### Book a demo
-
-Merchants who want a guided walkthrough should use the **Book a Demo** link at the top of this README and on the NexorAIQ website. The link currently points to the website's demo section; confirm that the live page contains a working booking form or calendar before launch.
+This repository contains README documentation, not the product's application code, so it cannot verify every in-app onboarding screen. Follow the live signup flow for current steps. For a guided walkthrough, use [Book a Demo](https://www.nexoraiq.tech/book-demo).
 
 ### Where to find the main tools
 
@@ -182,7 +169,7 @@ flowchart LR
 <p align="center">
   <a href="https://www.nexoraiq.tech/"><strong>Official Website</strong></a>
   &nbsp; · &nbsp;
-  <a href="https://www.nexoraiq.tech/"><strong>Start 14-Day Trial</strong></a>
+  <a href="https://www.nexoraiq.tech/pricing"><strong>View Pricing & Start Trial</strong></a>
   &nbsp; · &nbsp;
   <a href="https://www.nexoraiq.tech/book-demo"><strong>Book a Demo</strong></a>
   &nbsp; · &nbsp;
