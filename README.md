@@ -1,23 +1,28 @@
-<!-- NexorAIQ GitHub profile README -->
+<!-- NexorAIQ – AI Commerce | GitHub profile README -->
 
 <div align="center">
-  <a href="https://www.nexoraiq.tech/">
-    <img src="https://www.nexoraiq.tech/favicon.png" alt="NexorAIQ logo" width="150" />
-  </a>
-  <h1>NexorAIQ – AI Commerce</h1>
-  <p><strong>Search every product in any language.</strong></p>
-  <p>AI-powered semantic search and multilingual product discovery for modern commerce.</p>
 
-  <p>
-    <a href="https://www.nexoraiq.tech/"><img src="https://img.shields.io/badge/Website-nexoraiq.tech-6547F5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-    <a href="https://www.nexoraiq.tech/artworks/index.html"><img src="https://img.shields.io/badge/Brand_Artwork-Explore-222222?style=for-the-badge&logo=figma&logoColor=white" alt="Brand artwork" /></a>
-  </p>
+<a href="https://www.nexoraiq.tech/">
+  <img src="https://www.nexoraiq.tech/favicon.png" alt="NexorAIQ logo" width="120" />
+</a>
 
-  <p>
-    <a href="https://www.linkedin.com/showcase/nexoraiqtech/"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://www.instagram.com/nexoraiqtech/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://www.facebook.com/NexorAIQTech/"><img src="https://img.shields.io/badge/Facebook-Follow-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  </p>
+<h1>NexorAIQ – AI Commerce</h1>
+
+### Search every product in any language.
+
+**AI-powered semantic search and multilingual product discovery for modern commerce.**
+
+<p>
+  <a href="https://www.nexoraiq.tech/"><img src="https://img.shields.io/badge/WEBSITE-Explore%20NexorAIQ-6547F5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NexorAIQ website"/></a>
+  <a href="https://www.nexoraiq.tech/artworks/index.html"><img src="https://img.shields.io/badge/BRAND%20ARTWORK-View%20Gallery-333333?style=for-the-badge&logo=figma&logoColor=white" alt="Brand artwork gallery"/></a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/showcase/nexoraiqtech/"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/nexoraiqtech/"><img src="https://img.shields.io/badge/Instagram-%40nexoraiqtech-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.facebook.com/NexorAIQTech/"><img src="https://img.shields.io/badge/Facebook-NexorAIQTech-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+</p>
+
 </div>
 
 ---
