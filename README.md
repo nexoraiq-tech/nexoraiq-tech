@@ -14,6 +14,8 @@
 
 <p>
   <a href="https://www.nexoraiq.tech/"><img src="https://img.shields.io/badge/WEBSITE-Explore%20NexorAIQ-6547F5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NexorAIQ website"/></a>
+  <a href="https://www.nexoraiq.tech/#book-a-demo"><img src="https://img.shields.io/badge/BOOK%20A%20DEMO-Speak%20with%20Our%20Team-16865A?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Book a NexorAIQ demo"/></a>
+  <a href="https://www.nexoraiq.tech/#start-free-trial"><img src="https://img.shields.io/badge/START%20FREE%20TRIAL-14%20Days-6547F5?style=for-the-badge&logo=shopify&logoColor=white" alt="Start a 14-day trial"/></a>
   <a href="https://www.nexoraiq.tech/artworks/index.html"><img src="https://img.shields.io/badge/BRAND%20ARTWORK-View%20Gallery-333333?style=for-the-badge&logo=figma&logoColor=white" alt="Brand artwork gallery"/></a>
 </p>
 
@@ -62,15 +64,15 @@ Our goal is simple: **less searching for the right words, more discovering the r
 
 NexorAIQ brings search intelligence, merchandising controls, and actionable analytics together so commerce teams can improve product discovery without relying only on exact keyword matches.
 
-### AI Copilot
+### [AI Copilot](https://www.nexoraiq.tech/#ai-copilot)
 
 Use Copilot as a conversational assistant for understanding what is happening in your store's search experience. Ask questions in natural language about popular searches, zero-result queries, search performance, product discovery, and potential opportunities. Copilot can summarize patterns, explain findings, and suggest next steps such as synonyms, query improvements, or product boosts. Where an action changes store behaviour, it should be presented for review and approval rather than silently applied.
 
-### Pin product
+### [Pin product](https://www.nexoraiq.tech/#pin-product)
 
 Promote a specific product for a relevant search query by pinning it to a chosen position. Pinning helps merchants give priority to campaign products, best sellers, seasonal items, or strategic products when a shopper searches for selected terms. Use query targeting and position controls carefully so pinned results remain useful to shoppers; review the impact through search analytics.
 
-### Search merchandising
+### [Search merchandising](https://www.nexoraiq.tech/#search-merchandising)
 
 Manage the promotional experience around search results with merchandising controls such as:
 
@@ -82,11 +84,11 @@ Manage the promotional experience around search results with merchandising contr
 
 Merchandising should support the shopper's intent—not obscure relevant products. Review performance and attribution before extending a campaign.
 
-### Trending search keywords
+### [Trending search keywords](https://www.nexoraiq.tech/#trending-search-keywords)
 
 Discover the terms shoppers are searching for and spot changes in demand. A trending-keywords view can help teams identify high-volume searches, rising queries, repeated searches, and queries that return few or no useful results. Use these insights to plan campaigns, improve product data, add synonyms, tune ranking, and identify unmet catalogue demand. Trends should be interpreted alongside clicks, conversions, and zero-result rates rather than search volume alone.
 
-### Semantic and multilingual search
+### [Semantic and multilingual search](https://www.nexoraiq.tech/#semantic-multilingual-search)
 
 - **Natural-language understanding:** interpret the intent behind a shopper's query, not only exact words.
 - **Semantic relevance:** connect related concepts and product attributes even when catalogue wording differs from the query.
@@ -94,7 +96,7 @@ Discover the terms shoppers are searching for and spot changes in demand. A tren
 - **Query refinement:** improve the handling of synonyms, alternate wording, and common search gaps.
 - **Product ranking and relevance:** combine query understanding with catalogue information to surface useful results.
 
-### Search analytics and AI optimisation
+### [Search analytics and AI optimisation](https://www.nexoraiq.tech/#search-analytics-ai-optimisation)
 
 Give commerce teams visibility into query patterns, zero-result searches, search engagement, and product discovery. Use these signals to prioritise improvements, test relevance changes, and evaluate whether ranking or merchandising adjustments are helping. Where AI optimisation, experiments, approval controls, or rollback are enabled for a workspace, use them to test changes deliberately and retain human oversight over consequential updates.
 
@@ -115,11 +117,25 @@ For a Shopify store, the intended first-run journey is:
 
 If the store was already connected or the initial setup was interrupted, reopen **Shopify Admin → Apps → NexorAIQ** and look for the onboarding/setup or connection status screen. Exact labels may vary as the app UI evolves.
 
-### Pricing plans and trial
+### Pricing plans and 14-day free trial
 
-NexorAIQ's paid plan and trial terms must match the live subscription configuration presented during installation. For Shopify, Shopify's app pricing/approval screen is the source of truth for the merchant's selected plan, billing cadence, and any free-trial period. Do not assume a trial has started until the subscription approval flow confirms it.
+**Trial offer:** NexorAIQ's intended offer is a 14-day free trial for eligible Shopify merchants. Merchants should be able to install the app and approve a Shopify-managed subscription to begin the trial. The Shopify billing screen must show the trial duration, plan price, billing cadence, and the date paid billing starts before the merchant confirms.
 
-The following figures were discussed as a **proposed pricing model**, not verified live prices:
+During the 14-day trial, the onboarding experience should guide a merchant through:
+
+1. Installing NexorAIQ from the Shopify App Store and opening it in **Shopify Admin → Apps → NexorAIQ**.
+2. Connecting the store and checking the connection status.
+3. Importing and indexing the product catalogue.
+4. Testing search with natural-language and multilingual queries.
+5. Reviewing search analytics, trending queries, and zero-result searches.
+6. Trying available Copilot, product pinning, and merchandising tools for the selected plan.
+7. Reviewing the plan and billing details before the trial ends.
+
+**Important implementation status:** this GitHub profile repository contains documentation only; it does not contain the Shopify app's billing or subscription code. Adding a 14-day-trial description here does **not** activate the trial. To make the offer available to every eligible merchant, configure the 14-day trial on the Shopify App Store / Partner Dashboard pricing plan and ensure the app's subscription flow uses that plan. Verify the published listing and in-app billing approval screen before announcing the trial as live.
+
+#### Proposed pricing model
+
+The following figures are planning estimates only; they are not verified live prices:
 
 | Proposed plan | Indicative India price | Approx. USD equivalent | Intended fit |
 | --- | ---: | ---: | --- |
@@ -127,11 +143,13 @@ The following figures were discussed as a **proposed pricing model**, not verifi
 | Growth | ₹9,999/month | **$105/month** | Growing catalogues needing deeper search insights and merchandising workflows |
 | Professional | ₹19,999/month | **$210/month** | Larger or more advanced stores requiring broader optimisation and analytics capabilities |
 
-USD figures are rounded planning estimates based on an illustrative exchange rate of approximately **₹95.2 per US$1** (27 October 2026), not fixed currency conversions. Actual conversion rates, bank fees, taxes, Shopify billing rules, and any regional pricing strategy may change the final amount. [Reference: current USD/INR rate](https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=INR).
+USD figures are rounded planning estimates based on an illustrative exchange rate of approximately **₹95.2 per US$1** (27 October 2026), not fixed currency conversions. Actual conversion rates, bank fees, taxes, Shopify billing rules, and any regional pricing strategy may change the final amount.
 
-**These are proposed planning prices, not verified live prices. Before publishing them as current prices, confirm both currencies against the live Shopify App Store listing and the app's billing configuration.** The same applies to feature entitlements, usage limits, billing cadence, and whether USD pricing is configured as a separate regional price or converted at checkout.
+**Before publishing prices as current prices, confirm both currencies against the live Shopify App Store listing and the app's billing configuration.** The same applies to feature entitlements, usage limits, billing cadence, and regional pricing.
 
-A **14-day free trial** was discussed as a possible onboarding offer, but the live trial duration has not been verified from the public website or repository. The actual configured trial—whether 14 days, 30 days, or no trial—must be confirmed in Shopify's pricing configuration and shown clearly before the merchant approves the subscription. Do not promise a specific trial period until it is configured and approved.
+#### Book a demo
+
+Merchants who want a guided walkthrough should use the **Book a Demo** link at the top of this README and on the NexorAIQ website. The link currently points to the website's demo section; confirm that the live page contains a working booking form or calendar before launch.
 
 ### Where to find the main tools
 
@@ -164,9 +182,13 @@ flowchart LR
 <p align="center">
   <a href="https://www.nexoraiq.tech/"><strong>Official Website</strong></a>
   &nbsp; · &nbsp;
+  <a href="https://www.nexoraiq.tech/#start-free-trial"><strong>Start 14-Day Trial</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.nexoraiq.tech/#book-a-demo"><strong>Book a Demo</strong></a>
+  &nbsp; · &nbsp;
   <a href="https://www.nexoraiq.tech/artworks/index.html"><strong>Brand & Product Artwork</strong></a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/nexoraiq-tech"><strong>GitHub</strong></a>
+  <a href="https://github.com/nexoraiq-tech"><strong>GitHub Organization</strong></a>
 </p>
 
 ## Our vision
