@@ -14,8 +14,8 @@
 
 <p>
   <a href="https://www.nexoraiq.tech/"><img src="https://img.shields.io/badge/WEBSITE-Explore%20NexorAIQ-6547F5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NexorAIQ website"/></a>
-  <a href="https://www.nexoraiq.tech/#book-a-demo"><img src="https://img.shields.io/badge/BOOK%20A%20DEMO-Speak%20with%20Our%20Team-16865A?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Book a NexorAIQ demo"/></a>
-  <a href="https://www.nexoraiq.tech/#start-free-trial"><img src="https://img.shields.io/badge/START%20FREE%20TRIAL-14%20Days-6547F5?style=for-the-badge&logo=shopify&logoColor=white" alt="Start a 14-day trial"/></a>
+  <a href="https://www.nexoraiq.tech/book-demo"><img src="https://img.shields.io/badge/BOOK%20A%20DEMO-Speak%20with%20Our%20Team-16865A?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Book a NexorAIQ demo"/></a>
+  <a href="https://www.nexoraiq.tech/"><img src="https://img.shields.io/badge/START%20FREE%20TRIAL-14%20Days-6547F5?style=for-the-badge&logo=shopify&logoColor=white" alt="Start a 14-day trial"/></a>
   <a href="https://www.nexoraiq.tech/artworks/index.html"><img src="https://img.shields.io/badge/BRAND%20ARTWORK-View%20Gallery-333333?style=for-the-badge&logo=figma&logoColor=white" alt="Brand artwork gallery"/></a>
 </p>
 
@@ -64,7 +64,7 @@ Our goal is simple: **less searching for the right words, more discovering the r
 
 NexorAIQ brings search intelligence, merchandising controls, and actionable analytics together so commerce teams can improve product discovery without relying only on exact keyword matches.
 
-### [AI Copilot](https://www.nexoraiq.tech/#ai-copilot)
+### [AI Copilot](https://www.nexoraiq.tech/features/ai-merchant-copilot)
 
 Use Copilot as a conversational assistant for understanding what is happening in your store's search experience. Ask questions in natural language about popular searches, zero-result queries, search performance, product discovery, and potential opportunities. Copilot can summarize patterns, explain findings, and suggest next steps such as synonyms, query improvements, or product boosts. Where an action changes store behaviour, it should be presented for review and approval rather than silently applied.
 
@@ -182,9 +182,9 @@ flowchart LR
 <p align="center">
   <a href="https://www.nexoraiq.tech/"><strong>Official Website</strong></a>
   &nbsp; · &nbsp;
-  <a href="https://www.nexoraiq.tech/#start-free-trial"><strong>Start 14-Day Trial</strong></a>
+  <a href="https://www.nexoraiq.tech/"><strong>Start 14-Day Trial</strong></a>
   &nbsp; · &nbsp;
-  <a href="https://www.nexoraiq.tech/#book-a-demo"><strong>Book a Demo</strong></a>
+  <a href="https://www.nexoraiq.tech/book-demo"><strong>Book a Demo</strong></a>
   &nbsp; · &nbsp;
   <a href="https://www.nexoraiq.tech/artworks/index.html"><strong>Brand & Product Artwork</strong></a>
   &nbsp; · &nbsp;
