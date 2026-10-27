@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://www.nexoraiq.tech/">
-  <img src="https://www.nexoraiq.tech/favicon.png" alt="NexorAIQ logo" width="120" />
+  <img src="https://www.nexoraiq.tech/artworks/01_logo_primary/svg/nexoraiq-logo-transparent.svg" alt="NexorAIQ – Search every product in any language" width="320" />
 </a>
 
 <h1>NexorAIQ – AI Commerce</h1>
