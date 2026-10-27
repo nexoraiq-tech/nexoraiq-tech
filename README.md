@@ -133,6 +133,31 @@ NexorAIQ supports industry-specific product discovery, different commerce operat
 
 Estimate potential revenue impact using the [Search ROI Benchmarks](https://www.nexoraiq.tech/benchmarks) resource. Actual results vary by store, catalogue, traffic, and search experience; validate projections with your own data.
 
+## Magento 2 Extension
+
+The **[NexorAIQ Magento 2 Connector](https://github.com/nexoraiq-tech/nexoraiq-magento2-connector)** is the Magento extension for connecting Magento Open Source, Adobe Commerce, and Mage-OS 2.4.x stores to NexorAIQ AI Commerce Search. It brings NexorAIQ search and product discovery into Magento storefronts and supports traditional and headless storefront approaches.
+
+### Key capabilities
+
+- **AI search and autocomplete:** Keyword, vector/semantic, and hybrid search modes configured by store view.
+- **Storefront search experience:** Autocomplete dropdown or search overlay, a dedicated results page, sorting, pagination, filters/swatches, and optional quick add-to-cart.
+- **Theme and storefront support:** Hyvä, Luma/Blank, and headless storefronts using GraphQL or REST proxies, as described by the connector repository.
+- **Catalog and inventory synchronization:** Product changes, stock updates, multi-source inventory (MSI), and reservation-related events feed the NexorAIQ sync workflow.
+- **Merchant configuration:** Choose searchable attributes, map brand attributes, configure desktop/mobile layouts, and set overlay suggestions, categories, and brands.
+- **Search analytics:** Proxy search telemetry and shopper events such as result clicks, add-to-cart, and conversions.
+- **Operational visibility:** Per-store-view sync status, manual resync, CLI reindexing, cron queue processing, and categorized logs.
+
+### Installation and documentation
+
+The connector repository documents Composer installation and Magento module setup. Follow its current requirements and steps before deploying to a production store.
+
+- **[Magento 2 Connector Repository & README](https://github.com/nexoraiq-tech/nexoraiq-magento2-connector):** Installation, configuration, admin screenshots, indexing, GraphQL/REST examples, and troubleshooting.
+- **[NexorAIQ Developer Documentation](https://docs.nexoraiq.tech/):** General integration documentation.
+- **[GraphQL API Documentation](https://docs.nexoraiq.tech/graphql):** API reference for integrations.
+- **[Service Status](https://status.nexoraiq.tech/):** Service availability and operational updates.
+
+> **Implementation note:** Exact compatibility, theme behavior, API contracts, security posture, and the published package/version should be validated against the connector release you plan to deploy. The repository README describes the intended integration; this profile README does not substitute for release testing.
+
 ## Developer Resources & Service Status
 
 - **[Developer Docs & APIs](https://docs.nexoraiq.tech/):** Browse the NexorAIQ documentation for setup, integrations, and developer guidance.
