@@ -149,14 +149,14 @@ The **[NexorAIQ Magento 2 Connector](https://github.com/nexoraiq-tech/nexoraiq-m
 
 ### Installation and documentation
 
-The connector repository documents Composer installation and Magento module setup. Follow its current requirements and steps before deploying to a production store.
+The connector repository documents Composer installation, Magento module setup, configuration, and operational checks. The Composer command requires a package repository accessible to the installing project; confirm package availability and credentials before installation.
 
 - **[Magento 2 Connector Repository & README](https://github.com/nexoraiq-tech/nexoraiq-magento2-connector):** Installation, configuration, admin screenshots, indexing, GraphQL/REST examples, and troubleshooting.
 - **[NexorAIQ Developer Documentation](https://docs.nexoraiq.tech/):** General integration documentation.
 - **[GraphQL API Documentation](https://docs.nexoraiq.tech/graphql):** API reference for integrations.
 - **[Service Status](https://status.nexoraiq.tech/):** Service availability and operational updates.
 
-> **Implementation note:** Exact compatibility, theme behavior, API contracts, security posture, and the published package/version should be validated against the connector release you plan to deploy. The repository README describes the intended integration; this profile README does not substitute for release testing.
+> **Release checklist:** Before production use, validate the target Magento/PHP versions, confirm Composer package availability, test catalog and inventory synchronization, check GraphQL/REST behavior, and review endpoint authorization. The connector README includes a pre-deployment checklist. In the current GraphQL schema, shopper click events are sent through `nexoraiqTrackEvent`; add-to-cart and conversion events are logged server-side.
 
 ## Developer Resources & Service Status
 
