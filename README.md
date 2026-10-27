@@ -60,6 +60,35 @@ Our goal is simple: **less searching for the right words, more discovering the r
   </tr>
 </table>
 
+## Solutions
+
+NexorAIQ supports different commerce industries and operating models, with search relevance, merchandising, and measurable business outcomes at the centre.
+
+### Solutions by industry
+
+- **Fashion & Apparel:** Visual style matching, colour and size facets, and trend boosting.
+- **Beauty & Cosmetics:** Skin-tone filtering, routine building, and ingredient discovery.
+- **Electronics & Tech:** Exact part-number search, specification matrices, and compatibility discovery.
+- **Luxury & High-Catalogue Retail:** Curated product discovery, margin protection, and brand-aware boosting.
+
+### Solutions by business model
+
+- **Multi-Vendor Marketplaces:** Vendor-aware ranking, cross-seller discovery, and support for marketplace scale.
+- **B2B Wholesale & Commerce:** Contract price tiers, bulk order lists, and scoped catalogues.
+- **Enterprise D2C Brands:** Headless GraphQL experiences, edge search performance, and omnichannel synchronisation.
+- **Omnichannel Retail Chains:** Store availability, buy online/pick up in store (BOPIS), and point-of-sale inventory synchronisation.
+
+### Customer proof, ROI & enterprise trust
+
+- **Customer Case Studies:** Showcase customer outcomes, including the site’s stated example of a 34% conversion lift for retail brands using NexorAIQ.
+- **Search ROI Benchmarks:** Measure revenue attribution and changes in zero-result searches to understand search performance.
+- **Enterprise SLAs & Trust:** Enterprise service-level agreements, data privacy, and the stated 99.98% uptime guarantee.
+- **Zero-Downtime Migration:** Side-by-side A/B traffic splitting and guided onboarding to support migration with minimal disruption.
+
+### Search Revenue Lift Simulator
+
+Estimate the potential additional revenue and sales a store could gain from AI-powered search. The website presents this as a revenue benchmark simulator, with example highlights for **+34% sales lift**, **instant speed**, and a **live model**. Treat these as website-provided benchmarks and validate expected results against your own store data.
+
 ## Platform capabilities
 
 NexorAIQ brings search intelligence, merchandising controls, and actionable analytics together so commerce teams can improve product discovery without relying only on exact keyword matches.
