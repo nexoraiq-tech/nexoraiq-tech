@@ -1,97 +1,88 @@
-<!--
-NexorAIQ GitHub profile README
-Use official brand assets from https://www.nexoraiq.tech/artworks/index.html when available.
--->
+<!-- NexorAIQ GitHub profile README -->
 
 <div align="center">
-
   <a href="https://www.nexoraiq.tech/">
-    <img src="https://www.nexoraiq.tech/favicon.png" alt="NexorAIQ" width="88" />
+    <img src="https://avatars.githubusercontent.com/u/348693819?v=4" alt="NexorAIQ profile avatar" width="96" />
   </a>
 
   <h1>NexorAIQ</h1>
   <h3>Search every product in any language.</h3>
+  <p><strong>AI-powered semantic search & product discovery for modern commerce.</strong></p>
 
   <p>
-    <strong>AI-powered commerce search and product discovery</strong><br />
-    Helping shoppers find the right products with natural language, semantic understanding, and multilingual search.
-  </p>
-
-  <p>
-    <a href="https://www.nexoraiq.tech/"><strong>Explore NexorAIQ</strong></a>
-    &nbsp;·&nbsp;
-    <a href="https://www.nexoraiq.tech/artworks/index.html">Brand & Product Artwork</a>
-    &nbsp;·&nbsp;
+    <a href="https://www.nexoraiq.tech/"><strong>Explore the website</strong></a>
+    &nbsp; · &nbsp;
+    <a href="https://www.nexoraiq.tech/artworks/index.html">Brand & product artwork</a>
+    &nbsp; · &nbsp;
     <a href="https://www.linkedin.com/showcase/nexoraiqtech/">LinkedIn</a>
   </p>
-
 </div>
 
 ---
 
-## Product discovery, made more natural
+## Make product discovery feel effortless
 
-Online shoppers do not always know the exact product name, SKU, or keywords to type. NexorAIQ is building a smarter commerce search experience that helps customers express what they need in their own words and discover relevant products more naturally.
+People rarely describe what they want using the exact words stored in a product catalogue. NexorAIQ is focused on making commerce search more intuitive: shoppers can express their needs naturally, while AI-powered search helps connect intent with relevant products.
 
-Our focus is on making product discovery feel less like filtering a catalogue and more like describing what you are looking for.
+The goal is simple: **less searching for the right words, more discovering the right products.**
 
-## What we focus on
+## What NexorAIQ focuses on
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>Natural-language search</h3>
-      Understand intent beyond exact keyword matches, so shoppers can search the way they think and speak.
+      Let shoppers describe needs, preferences, and use cases in everyday language—not only exact product names or keywords.
     </td>
     <td width="50%" valign="top">
-      <h3>Semantic relevance</h3>
-      Match products by meaning and context, helping make results more useful than literal text matching alone.
+      <h3>Semantic understanding</h3>
+      Go beyond literal text matching by considering the meaning and context behind a search query.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Multilingual discovery</h3>
-      Support product discovery across languages, helping businesses serve more diverse audiences.
+      Make product discovery more accessible to customers searching across languages.
     </td>
     <td width="50%" valign="top">
-      <h3>Commerce-first experience</h3>
-      Put relevance, product understanding, and easier discovery at the centre of the shopping journey.
+      <h3>Search relevance</h3>
+      Keep relevance and product understanding at the centre of the e-commerce search experience.
     </td>
   </tr>
 </table>
 
-## Where NexorAIQ helps
+## The product discovery journey
 
-- **Shoppers:** describe a need naturally and discover products that better fit their intent.
-- **Merchants:** create a more intuitive search experience across their product catalogue.
-- **Commerce teams:** make product discovery and search relevance a deliberate part of the customer experience.
+The experience we are working toward connects a shopper's intent with useful product results:
 
-## See the vision
+```mermaid
+flowchart LR
+    A["Shopper describes a need"] --> B["Understand intent and context"]
+    B --> C["Find semantically relevant products"]
+    C --> D["Discover a more useful shortlist"]
+```
 
-<div align="center">
-  <a href="https://www.nexoraiq.tech/artworks/index.html">
-    <img src="https://www.nexoraiq.tech/artworks/cover.png" alt="Explore NexorAIQ product artwork" width="100%" />
-  </a>
-  <p><sub>Explore the NexorAIQ artwork gallery for product visuals and brand assets.</sub></p>
-</div>
+## Designed around commerce
 
-> **Artwork note:** The image paths above are sensible defaults, but should be checked against the exact filenames published in the artwork gallery. Replace them with the official banner and logo paths if the filenames differ.
+- **For shoppers:** search naturally and discover products that better match the need behind a query.
+- **For merchants:** make product catalogues easier for customers to explore.
+- **For commerce teams:** treat search relevance and product discovery as important parts of the customer experience.
 
 ## Explore NexorAIQ
 
-| Resource | Link |
+| Resource | Visit |
 | --- | --- |
 | Official website | [nexoraiq.tech](https://www.nexoraiq.tech/) |
-| Product and brand artwork | [Artwork gallery](https://www.nexoraiq.tech/artworks/index.html) |
+| Brand and product artwork | [Open the artwork gallery](https://www.nexoraiq.tech/artworks/index.html) |
 | LinkedIn showcase | [NexorAIQ — AI Commerce Search](https://www.linkedin.com/showcase/nexoraiqtech/) |
-| GitHub | [@nexoraiq-tech](https://github.com/nexoraiq-tech) |
+| GitHub profile | [@nexoraiq-tech](https://github.com/nexoraiq-tech) |
 
-## Our direction
+## Our point of view
 
-We believe product search should understand more than words. It should understand the shopper's intent, the context behind a query, and the products that can fulfil it—across languages and shopping experiences.
+Search should understand more than a string of keywords. It should account for what a shopper is trying to find and help surface relevant products across languages and shopping journeys.
 
 **NexorAIQ — AI Commerce Search.**
 
 <div align="center">
-  <sub>Learn more at <a href="https://www.nexoraiq.tech/">nexoraiq.tech</a></sub>
+  <p><sub>Discover the vision at <a href="https://www.nexoraiq.tech/">nexoraiq.tech</a>.</sub></p>
 </div>
