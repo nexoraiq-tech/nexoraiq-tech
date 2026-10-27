@@ -133,6 +133,12 @@ NexorAIQ supports industry-specific product discovery, different commerce operat
 
 Estimate potential revenue impact using the [Search ROI Benchmarks](https://www.nexoraiq.tech/benchmarks) resource. Actual results vary by store, catalogue, traffic, and search experience; validate projections with your own data.
 
+## Developer Resources & Service Status
+
+- **[Developer Docs & APIs](https://docs.nexoraiq.tech/):** Browse the NexorAIQ documentation for setup, integrations, and developer guidance.
+- **[GraphQL API Reference](https://docs.nexoraiq.tech/graphql):** Find the GraphQL API documentation for integrating with NexorAIQ.
+- **[System Status](https://status.nexoraiq.tech/):** Check service availability and operational updates.
+
 ## Getting started: installation, login, and onboarding
 
 For a Shopify store, the intended first-run journey is:
