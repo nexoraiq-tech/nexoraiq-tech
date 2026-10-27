@@ -137,6 +137,16 @@ Estimate potential revenue impact using the [Search ROI Benchmarks](https://www.
 
 The **[NexorAIQ Magento 2 Connector](https://github.com/nexoraiq-tech/nexoraiq-magento2-connector)** is the Magento extension for connecting Magento Open Source, Adobe Commerce, and Mage-OS 2.4.x stores to NexorAIQ AI Commerce Search. It brings NexorAIQ search and product discovery into Magento storefronts and supports traditional and headless storefront approaches.
 
+#### Compatibility guidance
+
+| Platform release | PHP compatibility guidance |
+| --- | --- |
+| **Magento / Adobe Commerce 2.4.9** | **PHP 8.5** is the documented platform requirement. |
+| **Magento / Adobe Commerce 2.4.8-p5** | PHP 8.4 or 8.3, per Adobe's published system requirements. |
+| **Earlier Magento 2.4.x releases** | PHP support varies by exact patch release. Check Adobe's [official system requirements](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/system-requirements) before selecting a runtime. |
+
+These are platform-level requirements, not a claim that every connector/PHP combination has been independently tested. Validate the connector against the exact target patch and runtime before production deployment. See the [connector README](https://github.com/nexoraiq-tech/nexoraiq-magento2-connector#requirements--compatibility) for release validation guidance.
+
 ### Key capabilities
 
 - **AI search and autocomplete:** Keyword, vector/semantic, and hybrid search modes configured by store view.
