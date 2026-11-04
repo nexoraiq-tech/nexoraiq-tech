@@ -2,9 +2,19 @@
 
 <div align="center">
 
-<a href="https://www.nexoraiq.tech/">
-  <img src="https://www.nexoraiq.tech/artworks/01_logo_primary/svg/nexoraiq-logo-transparent.svg" alt="NexorAIQ – Search every product in any language" width="320" />
-</a>
+ <a href="https://www.nexoraiq.tech/">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://www.nexoraiq.tech/artworks/01_logo_primary/svg/nexoraiq-logo-dark-transparent.svg"
+      />
+      <img
+        src="https://www.nexoraiq.tech/artworks/01_logo_primary/svg/nexoraiq-logo-transparent.svg"
+        alt="NexorAIQ – Search every product in any language"
+        width="320"
+      />
+    </picture>
+  </a>
 
 <h1>NexorAIQ – AI Commerce</h1>
 
