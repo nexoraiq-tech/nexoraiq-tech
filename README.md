@@ -212,7 +212,7 @@ The public pricing page presents the following monthly prices. The INR (India) v
 | --- | ---: | --- | ---: | ---: | ---: | --- |
 | Starter | ₹6,999/month · $99/month | 14 days | 100K searches/month | 5,000 products | 2 seats | AI search, email support |
 | Growth | ₹9,999/month · $149/month | 14 days | 1M searches/month | 30,000 products | 5 seats | AI search, email support |
-| Professional | ₹19,999/month · $299/month | 14 days | 15M searches/month | 100,000 products | 10 seats | AI search, priority support |
+| Professional | ₹19,999/month · $249/month | 14 days | 15M searches/month | 100,000 products | 10 seats | AI search, priority support |
 | Enterprise | Custom · Custom | No trial shown in the supplied pricing view | Custom | Custom | Custom | Dedicated database hosting, custom domain support |
 
 **Yearly billing:** the pricing page displays a 15% saving for yearly billing. The figures above are monthly prices; yearly billed amounts should be read from the live pricing selector rather than guessed.
